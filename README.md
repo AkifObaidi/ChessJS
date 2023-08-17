@@ -31,5 +31,18 @@ ChessJS is designed to provide a user-friendly interface for playing the timeles
 
 ## Installation
 Clone this repository to your local machine using the following command:
+git clone https://github.com/AkifObaidi/ChessJS.git
 
+## Usage
+1. After cloning the repository, navigate to the project directory.
+2. Open the `index.html` file in a modern web browser.
+3. Follow the on-screen instructions to play.
+
+## Contributing
+Contributions are welcome! If you encounter issues or want to enhance the game, create a pull request. For significant changes, open an issue to discuss ideas first.
+
+## License
+This project is licensed under the MIT License. Feel free to use and modify the code per the license terms.
+
+Enjoy your game of ChessJS!
 
